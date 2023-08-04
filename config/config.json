@@ -3,5 +3,6 @@
 
     "mail" : "",
     "password" : "",
-    "Prolific_ID": ""
+    "Prolific_ID": "",
+    "socks_proxy": ""
 }
